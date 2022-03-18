@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/norej_udeisa" target="blank"><img src="https://img.shields.io/twitter/follow/norej_udeisa?logo=twitter&style=for-the-badge" alt="norej_udeisa" /></a> </p>
 
-- 🔭 I’m currently working on [J MART ecommerce project](jeron-ecommerce.netlify.app)
+- 🔭 I’m currently working on [J MART ecommerce project](jeronmart.netlify.app)
 
 - 🌱 I’m currently learning **MYSQL,NEXTJS,THREEJS**
 
