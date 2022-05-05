@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/norej_udeisa" target="blank"><img src="https://img.shields.io/twitter/follow/norej_udeisa?logo=twitter&style=for-the-badge" alt="norej_udeisa" /></a> </p>
 
-- 🔭 I’m currently working on [J MART ecommerce project](jeronmart.netlify.app)
+- 🔭 I’m currently working on [JTECH Agency Website](jtech.vercel.app)
 
 - 🌱 I’m currently learning **MYSQL,NEXTJS,THREEJS**
 
@@ -37,4 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeronasiedu&show_icons=true&locale=en" alt="jeronasiedu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeronasiedu&" alt="jeronasiedu" /></p>
+
+<a href="https://app.daily.dev/norej"><img src="https://api.daily.dev/devcards/beb10cb834e543789c14a1c6cbe40e44.png?r=j9y" width="400" alt="Jeron's Dev Card"/></a>
 
