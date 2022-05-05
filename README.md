@@ -38,5 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeronasiedu&" alt="jeronasiedu" /></p>
 
-<a href="https://app.daily.dev/norej"><img src="https://api.daily.dev/devcards/beb10cb834e543789c14a1c6cbe40e44.png?r=j9y" width="400" alt="Jeron's Dev Card"/></a>
+<a href="https://app.daily.dev/norej"><img src="https://api.daily.dev/devcards/beb10cb834e543789c14a1c6cbe40e44.png?r=pip" width="400" alt="Jeron's Dev Card"/></a>
 
