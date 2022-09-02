@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [JTECH Agency Website](jtech.vercel.app)
 
-- 🌱 I’m currently learning **MYSQL,NEXTJS,THREEJS**
+- 🌱 I’m currently learning **FLUTTER,ASTRO,THREEJS**
 
 - 👨‍💻 All of my projects are available at [jeron-netlify.app](jeron-netlify.app)
 
