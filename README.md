@@ -33,8 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeronasiedu&show_icons=true&locale=en" alt="jeronasiedu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeronasiedu&" alt="jeronasiedu" /></p>
-
-
+<img href="https://raw.githubusercontent.com/jeron/jeron/blob/output/snake.svg" alt="Snake animation" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeronasiedu&show_icons=true&locale=en&layout=compact" alt="jeronasiedu" /></p>
 
 
